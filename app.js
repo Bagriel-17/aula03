@@ -110,3 +110,5 @@ function inserirResultado(faixa, resultado){
    paragrafo.innerText = `imc do paciente: ${resultado} e está com ${faixa}`
 }
 capturaDados();
+
+//XD
